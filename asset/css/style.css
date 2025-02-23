@@ -1,0 +1,24 @@
+.container {
+  max-width: 540px !important;
+}
+
+.conversor {
+  padding: 0.1rem 2rem;
+  margin: 0 auto;
+}
+
+h1 {
+  border-top: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+}
+
+input,
+select,
+button,
+label {
+  width: 300px !important;
+}
+
+#graficaMoneda {
+  display: none;
+}
